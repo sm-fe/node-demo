@@ -1,0 +1,27 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sm-fe/node-demo.git"
+  },
+  "keywords": [
+    "sm",
+    "fe",
+    "node"
+  ],
+  "author": "hacke2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sm-fe/node-demo/issues"
+  },
+  "homepage": "https://github.com/sm-fe/node-demo",
+  "devDependencies": {
+    "express": "^4.12.4"
+  }
+}
